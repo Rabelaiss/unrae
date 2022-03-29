@@ -1,5 +1,5 @@
 # unrae
-Dati mensili di vendita delle autovetture nel mercato italiano.
+Numero di autovetture vendute ogni mese in Italia per tipo di alimentazione, da gennaio 2017 in poi.
 
 Esempio:
 
