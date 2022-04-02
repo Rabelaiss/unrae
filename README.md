@@ -1,5 +1,5 @@
 # unrae
-Numero di autovetture vendute ogni mese in Italia per tipo di alimentazione, da gennaio 2017 in poi.
+Analisi di dettaglio delle vendite di autovetture e veicoli commerciali in Italia: la struttura del mercato, le marche, i gruppi, i modelli più venduti.
 
 Esempio:
 
